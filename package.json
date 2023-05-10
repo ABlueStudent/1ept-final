@@ -1,0 +1,7 @@
+{
+  "name": "1ept-final",
+  "packageManager": "yarn@3.5.1",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
