@@ -1,0 +1,6300 @@
+﻿{
+    "links": [
+        {
+            "source": "林奕丞",
+            "target": "草屯分院",
+            "value": 1
+        },
+        {
+            "source": "蘇韻如",
+            "target": "草屯分院",
+            "value": 1
+        },
+        {
+            "source": "廖志彰",
+            "target": "草屯分院",
+            "value": 1
+        },
+        {
+            "source": "林維儀",
+            "target": "草屯分院",
+            "value": 1
+        },
+        {
+            "source": "游秉燁",
+            "target": "草屯分院",
+            "value": 1
+        },
+        {
+            "source": "蔡育庭",
+            "target": "草屯分院",
+            "value": 1
+        },
+        {
+            "source": "林奕丞",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "運動傷害"
+        },
+        {
+            "source": "林奕丞",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "各種酸痛"
+        },
+        {
+            "source": "林奕丞",
+            "target": "五十肩 特別門診 ",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "五十肩 特別門診 "
+        },
+        {
+            "source": "林奕丞",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "火燙傷"
+        },
+        {
+            "source": "林奕丞",
+            "target": "子宮內膜異位症",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "子宮內膜異位症"
+        },
+        {
+            "source": "蘇韻如",
+            "target": "鼻炎",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "鼻炎"
+        },
+        {
+            "source": "蘇韻如",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "感冒"
+        },
+        {
+            "source": "蘇韻如",
+            "target": "婦科",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "婦科"
+        },
+        {
+            "source": "蘇韻如",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "失眠"
+        },
+        {
+            "source": "蘇韻如",
+            "target": "青春痘 ",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "青春痘 "
+        },
+        {
+            "source": "蘇韻如",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "肥胖症"
+        },
+        {
+            "source": "蘇韻如",
+            "target": "新冠後遺症",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "新冠後遺症"
+        },
+        {
+            "source": "廖志彰",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "扭挫傷"
+        },
+        {
+            "source": "廖志彰",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "落枕"
+        },
+        {
+            "source": "廖志彰",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "關節炎"
+        },
+        {
+            "source": "廖志彰",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "坐骨神經痛"
+        },
+        {
+            "source": "廖志彰",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "糖尿病傷口潰瘍"
+        },
+        {
+            "source": "林維儀",
+            "target": "胃潰瘍",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "胃潰瘍"
+        },
+        {
+            "source": "林維儀",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "林維儀",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "林維儀",
+            "target": "皮膚病",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "皮膚病"
+        },
+        {
+            "source": "林維儀",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "過敏性鼻炎"
+        },
+        {
+            "source": "林維儀",
+            "target": "新冠後遺症",
+            "value": 2
+        },
+        {
+            "source": "游秉燁",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "游秉燁",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "腸胃炎"
+        },
+        {
+            "source": "游秉燁",
+            "target": "皮膚病",
+            "value": 2
+        },
+        {
+            "source": "游秉燁",
+            "target": "婦科",
+            "value": 2
+        },
+        {
+            "source": "游秉燁",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "游秉燁",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "咳嗽"
+        },
+        {
+            "source": "游秉燁",
+            "target": "新冠後遺症",
+            "value": 2
+        },
+        {
+            "source": "蔡育庭",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "蔡育庭",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "草屯分院",
+            "target": "小兒厭食"
+        },
+        {
+            "source": "蔡育庭",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "蔡育庭",
+            "target": "婦科",
+            "value": 2
+        },
+        {
+            "source": "蔡育庭",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "蔡育庭",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "蔡育庭",
+            "target": "新冠後遺症",
+            "value": 2
+        },
+        {
+            "source": "徐立杰",
+            "target": "平鎮分院",
+            "value": 1
+        },
+        {
+            "source": "余俊思",
+            "target": "平鎮分院",
+            "value": 1
+        },
+        {
+            "source": "陳惠禎",
+            "target": "平鎮分院",
+            "value": 1
+        },
+        {
+            "source": "吳安溪",
+            "target": "平鎮分院",
+            "value": 1
+        },
+        {
+            "source": "蔡佩曄",
+            "target": "平鎮分院",
+            "value": 1
+        },
+        {
+            "source": "吳靜欣",
+            "target": "平鎮分院",
+            "value": 1
+        },
+        {
+            "source": "秦健哲",
+            "target": "平鎮分院",
+            "value": 1
+        },
+        {
+            "source": "吳家勳",
+            "target": "平鎮分院",
+            "value": 1
+        },
+        {
+            "source": "徐立杰",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "中風後遺症"
+        },
+        {
+            "source": "徐立杰",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "扭挫傷"
+        },
+        {
+            "source": "徐立杰",
+            "target": "退化性關節炎",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "退化性關節炎"
+        },
+        {
+            "source": "徐立杰",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "過敏性鼻炎"
+        },
+        {
+            "source": "徐立杰",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "糖尿病傷口潰瘍"
+        },
+        {
+            "source": "余俊思",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "關節炎"
+        },
+        {
+            "source": "余俊思",
+            "target": "筋骨扭傷",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "筋骨扭傷"
+        },
+        {
+            "source": "余俊思",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "五十肩"
+        },
+        {
+            "source": "余俊思",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "余俊思",
+            "target": "骨刺",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "骨刺"
+        },
+        {
+            "source": "陳惠禎",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "感冒"
+        },
+        {
+            "source": "陳惠禎",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "陳惠禎",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "小兒厭食"
+        },
+        {
+            "source": "陳惠禎",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "青春痘"
+        },
+        {
+            "source": "陳惠禎",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "失眠"
+        },
+        {
+            "source": "吳安溪",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "落枕"
+        },
+        {
+            "source": "吳安溪",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "坐骨神經痛"
+        },
+        {
+            "source": "吳安溪",
+            "target": "針灸傷骨科",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "針灸傷骨科"
+        },
+        {
+            "source": "吳安溪",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "吳安溪",
+            "target": "中風",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "中風"
+        },
+        {
+            "source": "蔡佩曄",
+            "target": "胃潰瘍",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "胃潰瘍"
+        },
+        {
+            "source": "蔡佩曄",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "青春期轉骨"
+        },
+        {
+            "source": "蔡佩曄",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "蔡佩曄",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "白帶"
+        },
+        {
+            "source": "蔡佩曄",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "肥胖症"
+        },
+        {
+            "source": "吳靜欣",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "月經異常"
+        },
+        {
+            "source": "吳靜欣",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "腸胃炎"
+        },
+        {
+            "source": "吳靜欣",
+            "target": "心血管疾病",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "心血管疾病"
+        },
+        {
+            "source": "吳靜欣",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "吳靜欣",
+            "target": "消化道潰瘍",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "消化道潰瘍"
+        },
+        {
+            "source": "秦健哲",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "秦健哲",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "各種酸痛"
+        },
+        {
+            "source": "秦健哲",
+            "target": "針灸傷骨科",
+            "value": 2
+        },
+        {
+            "source": "秦健哲",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "燒燙傷"
+        },
+        {
+            "source": "秦健哲",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "痛風"
+        },
+        {
+            "source": "吳家勳",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "平鎮分院",
+            "target": "火燙傷"
+        },
+        {
+            "source": "吳家勳",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "吳家勳",
+            "target": "筋骨扭傷",
+            "value": 2
+        },
+        {
+            "source": "吳家勳",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "吳家勳",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "楊子温",
+            "target": "大里分院",
+            "value": 1
+        },
+        {
+            "source": "李秉昌",
+            "target": "大里分院",
+            "value": 1
+        },
+        {
+            "source": "賴佳鈺",
+            "target": "大里分院",
+            "value": 1
+        },
+        {
+            "source": "湯婉綺",
+            "target": "大里分院",
+            "value": 1
+        },
+        {
+            "source": "石名軒",
+            "target": "大里分院",
+            "value": 1
+        },
+        {
+            "source": "林良諺",
+            "target": "大里分院",
+            "value": 1
+        },
+        {
+            "source": "歐宥恩",
+            "target": "大里分院",
+            "value": 1
+        },
+        {
+            "source": "游秉燁",
+            "target": "大里分院",
+            "value": 1
+        },
+        {
+            "source": "楊子温",
+            "target": "一般內婦兒科疾患",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "一般內婦兒科疾患"
+        },
+        {
+            "source": "楊子温",
+            "target": "體質調理",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "體質調理"
+        },
+        {
+            "source": "楊子温",
+            "target": "美容塑身",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "美容塑身"
+        },
+        {
+            "source": "楊子温",
+            "target": "身心科疾患",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "身心科疾患"
+        },
+        {
+            "source": "李秉昌",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "坐骨神經痛"
+        },
+        {
+            "source": "李秉昌",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "扭挫傷"
+        },
+        {
+            "source": "李秉昌",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "痛風"
+        },
+        {
+            "source": "李秉昌",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "燒燙傷"
+        },
+        {
+            "source": "李秉昌",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "五十肩"
+        },
+        {
+            "source": "賴佳鈺",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "過敏性鼻炎"
+        },
+        {
+            "source": "賴佳鈺",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "睡眠障礙"
+        },
+        {
+            "source": "賴佳鈺",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "小兒厭食"
+        },
+        {
+            "source": "賴佳鈺",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "青春期轉骨"
+        },
+        {
+            "source": "賴佳鈺",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "月經異常"
+        },
+        {
+            "source": "湯婉綺",
+            "target": "消化性潰瘍",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "消化性潰瘍"
+        },
+        {
+            "source": "湯婉綺",
+            "target": "高血壓",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "高血壓"
+        },
+        {
+            "source": "湯婉綺",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "湯婉綺",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "肥胖症"
+        },
+        {
+            "source": "湯婉綺",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "石名軒",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "運動傷害"
+        },
+        {
+            "source": "石名軒",
+            "target": "骨折",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "骨折"
+        },
+        {
+            "source": "石名軒",
+            "target": "針灸傷骨科",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "針灸傷骨科"
+        },
+        {
+            "source": "石名軒",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "石名軒",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "火燙傷"
+        },
+        {
+            "source": "林良諺",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "關節炎"
+        },
+        {
+            "source": "林良諺",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "落枕"
+        },
+        {
+            "source": "林良諺",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "林良諺",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "糖尿病傷口潰瘍"
+        },
+        {
+            "source": "林良諺",
+            "target": "中風",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "中風"
+        },
+        {
+            "source": "歐宥恩",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "歐宥恩",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "歐宥恩",
+            "target": "肩頸痠痛",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "肩頸痠痛"
+        },
+        {
+            "source": "歐宥恩",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "歐宥恩",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "歐宥恩",
+            "target": "糖尿病傷口",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "糖尿病傷口"
+        },
+        {
+            "source": "游秉燁",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "感冒"
+        },
+        {
+            "source": "游秉燁",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "大里分院",
+            "target": "腸胃炎"
+        },
+        {
+            "source": "游秉燁",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "游秉燁",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "游秉燁",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "張永明",
+            "target": "豐原分院",
+            "value": 1
+        },
+        {
+            "source": "林奕丞",
+            "target": "豐原分院",
+            "value": 1
+        },
+        {
+            "source": "余冠穎",
+            "target": "豐原分院",
+            "value": 1
+        },
+        {
+            "source": "李泓葳",
+            "target": "豐原分院",
+            "value": 1
+        },
+        {
+            "source": "劉漢強",
+            "target": "豐原分院",
+            "value": 1
+        },
+        {
+            "source": "許智凱",
+            "target": "豐原分院",
+            "value": 1
+        },
+        {
+            "source": "葉濬愷",
+            "target": "豐原分院",
+            "value": 1
+        },
+        {
+            "source": "劉夢儒",
+            "target": "豐原分院",
+            "value": 1
+        },
+        {
+            "source": "林文瀚",
+            "target": "豐原分院",
+            "value": 1
+        },
+        {
+            "source": "張永明",
+            "target": "腎臟病",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "腎臟病"
+        },
+        {
+            "source": "張永明",
+            "target": "攝護腺",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "攝護腺"
+        },
+        {
+            "source": "張永明",
+            "target": "腫瘤癌症調理",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "腫瘤癌症調理"
+        },
+        {
+            "source": "張永明",
+            "target": "不孕症",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "不孕症"
+        },
+        {
+            "source": "張永明",
+            "target": "婦兒體質調理",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "婦兒體質調理"
+        },
+        {
+            "source": "林奕丞",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "運動傷害"
+        },
+        {
+            "source": "林奕丞",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "各種酸痛"
+        },
+        {
+            "source": "林奕丞",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "五十肩"
+        },
+        {
+            "source": "林奕丞",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "火燙傷"
+        },
+        {
+            "source": "林奕丞",
+            "target": "子宮內膜異位症",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "子宮內膜異位症"
+        },
+        {
+            "source": "余冠穎",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "感冒"
+        },
+        {
+            "source": "余冠穎",
+            "target": "心血管疾病",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "心血管疾病"
+        },
+        {
+            "source": "余冠穎",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "青春痘"
+        },
+        {
+            "source": "余冠穎",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "月經異常"
+        },
+        {
+            "source": "余冠穎",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "肥胖症"
+        },
+        {
+            "source": "李泓葳",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "腸胃炎"
+        },
+        {
+            "source": "李泓葳",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "咳嗽"
+        },
+        {
+            "source": "李泓葳",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "青春期轉骨"
+        },
+        {
+            "source": "李泓葳",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "失眠"
+        },
+        {
+            "source": "李泓葳",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "劉漢強",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "劉漢強",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "落枕"
+        },
+        {
+            "source": "劉漢強",
+            "target": "筋骨扭傷",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "筋骨扭傷"
+        },
+        {
+            "source": "劉漢強",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "痛風"
+        },
+        {
+            "source": "劉漢強",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "許智凱",
+            "target": "肌肉痠痛",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "肌肉痠痛"
+        },
+        {
+            "source": "許智凱",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "扭挫傷"
+        },
+        {
+            "source": "許智凱",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "許智凱",
+            "target": "韌帶發炎",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "韌帶發炎"
+        },
+        {
+            "source": "許智凱",
+            "target": "一般內科",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "一般內科"
+        },
+        {
+            "source": "葉濬愷",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "葉濬愷",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "葉濬愷",
+            "target": "筋骨扭傷",
+            "value": 2
+        },
+        {
+            "source": "葉濬愷",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "葉濬愷",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "劉夢儒",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "過敏性鼻炎"
+        },
+        {
+            "source": "劉夢儒",
+            "target": "子宮肌瘤",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "子宮肌瘤"
+        },
+        {
+            "source": "劉夢儒",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "白帶"
+        },
+        {
+            "source": "劉夢儒",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "劉夢儒",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "林文瀚",
+            "target": "退化關節炎酸痛",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "退化關節炎酸痛"
+        },
+        {
+            "source": "林文瀚",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "林文瀚",
+            "target": "過敏",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "過敏"
+        },
+        {
+            "source": "林文瀚",
+            "target": "消化道疾病",
+            "value": 2
+        },
+        {
+            "source": "豐原分院",
+            "target": "消化道疾病"
+        },
+        {
+            "source": "林壁源",
+            "target": "和美分院",
+            "value": 1
+        },
+        {
+            "source": "何俊佑",
+            "target": "和美分院",
+            "value": 1
+        },
+        {
+            "source": "吳品欣",
+            "target": "和美分院",
+            "value": 1
+        },
+        {
+            "source": "周珮瑜",
+            "target": "和美分院",
+            "value": 1
+        },
+        {
+            "source": "趙琇民",
+            "target": "和美分院",
+            "value": 1
+        },
+        {
+            "source": "林冠良",
+            "target": "和美分院",
+            "value": 1
+        },
+        {
+            "source": "陳海康",
+            "target": "和美分院",
+            "value": 1
+        },
+        {
+            "source": "林壁源",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "坐骨神經痛"
+        },
+        {
+            "source": "林壁源",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "扭挫傷"
+        },
+        {
+            "source": "林壁源",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "痛風"
+        },
+        {
+            "source": "林壁源",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "小兒厭食"
+        },
+        {
+            "source": "林壁源",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "肥胖症"
+        },
+        {
+            "source": "何俊佑",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "何俊佑",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "關節炎"
+        },
+        {
+            "source": "何俊佑",
+            "target": "針灸傷骨科",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "針灸傷骨科"
+        },
+        {
+            "source": "何俊佑",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "五十肩"
+        },
+        {
+            "source": "何俊佑",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "運動傷害"
+        },
+        {
+            "source": "吳品欣",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "月經異常"
+        },
+        {
+            "source": "吳品欣",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "青春痘"
+        },
+        {
+            "source": "吳品欣",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "白帶"
+        },
+        {
+            "source": "吳品欣",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "失眠"
+        },
+        {
+            "source": "吳品欣",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "周珮瑜",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "青春期轉骨"
+        },
+        {
+            "source": "周珮瑜",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "感冒"
+        },
+        {
+            "source": "周珮瑜",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "過敏性鼻炎"
+        },
+        {
+            "source": "周珮瑜",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "周珮瑜",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "趙琇民",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "落枕"
+        },
+        {
+            "source": "趙琇民",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "趙琇民",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "趙琇民",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "糖尿病傷口潰瘍"
+        },
+        {
+            "source": "趙琇民",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "林冠良",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "林冠良",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "林冠良",
+            "target": "肩頸痠痛",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "肩頸痠痛"
+        },
+        {
+            "source": "林冠良",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "林冠良",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "燒燙傷"
+        },
+        {
+            "source": "林冠良",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "陳海康",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "陳海康",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "陳海康",
+            "target": "消化系統疾病",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "消化系統疾病"
+        },
+        {
+            "source": "陳海康",
+            "target": "腕隧道症候群",
+            "value": 2
+        },
+        {
+            "source": "和美分院",
+            "target": "腕隧道症候群"
+        },
+        {
+            "source": "陳海康",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "張裕靆",
+            "target": "大甲分院",
+            "value": 1
+        },
+        {
+            "source": "郭名凱",
+            "target": "大甲分院",
+            "value": 1
+        },
+        {
+            "source": "孫祥文",
+            "target": "大甲分院",
+            "value": 1
+        },
+        {
+            "source": "陳怡",
+            "target": "大甲分院",
+            "value": 1
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "大甲分院",
+            "value": 1
+        },
+        {
+            "source": "施秀雯",
+            "target": "大甲分院",
+            "value": 1
+        },
+        {
+            "source": "羅方吾",
+            "target": "大甲分院",
+            "value": 1
+        },
+        {
+            "source": "陳信豪",
+            "target": "大甲分院",
+            "value": 1
+        },
+        {
+            "source": "張裕靆",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "腸胃炎"
+        },
+        {
+            "source": "張裕靆",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "過敏性鼻炎"
+        },
+        {
+            "source": "張裕靆",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "青春痘"
+        },
+        {
+            "source": "張裕靆",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "月經異常"
+        },
+        {
+            "source": "張裕靆",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "白帶"
+        },
+        {
+            "source": "郭名凱",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "坐骨神經痛"
+        },
+        {
+            "source": "郭名凱",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "落枕"
+        },
+        {
+            "source": "郭名凱",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "扭挫傷"
+        },
+        {
+            "source": "郭名凱",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "五十肩"
+        },
+        {
+            "source": "郭名凱",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "火燙傷"
+        },
+        {
+            "source": "孫祥文",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "孫祥文",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "關節炎"
+        },
+        {
+            "source": "孫祥文",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "孫祥文",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "痛風"
+        },
+        {
+            "source": "孫祥文",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "中風後遺症"
+        },
+        {
+            "source": "陳怡",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "陳怡",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "陳怡",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "感冒"
+        },
+        {
+            "source": "陳怡",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "失眠"
+        },
+        {
+            "source": "陳怡",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "肥胖症"
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "各種酸痛"
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "針灸傷骨科",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "針灸傷骨科"
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "腰痛",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "腰痛"
+        },
+        {
+            "source": "施秀雯",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "施秀雯",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "咳嗽"
+        },
+        {
+            "source": "施秀雯",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "青春期轉骨"
+        },
+        {
+            "source": "施秀雯",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "施秀雯",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "羅方吾",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "睡眠障礙"
+        },
+        {
+            "source": "羅方吾",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "羅方吾",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "羅方吾",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "小兒厭食"
+        },
+        {
+            "source": "羅方吾",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "陳信豪",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "陳信豪",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "陳信豪",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "運動傷害"
+        },
+        {
+            "source": "陳信豪",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "燒燙傷"
+        },
+        {
+            "source": "陳信豪",
+            "target": "急性扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "大甲分院",
+            "target": "急性扭挫傷"
+        },
+        {
+            "source": "蔡全德",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "蔡德秋",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "蔡德能",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "楊朝帆",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "楊裕燋",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "楊子温",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "陳瑜泓",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "賴怡君",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "吳品欣",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "何佩蓁",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "湯婉綺",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "林書帆",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "林冠良",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "何欣儒",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "黃佩渝",
+            "target": "沙鹿本院",
+            "value": 1
+        },
+        {
+            "source": "蔡全德",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "月經異常"
+        },
+        {
+            "source": "蔡全德",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "感冒"
+        },
+        {
+            "source": "蔡全德",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "過敏性鼻炎"
+        },
+        {
+            "source": "蔡德秋",
+            "target": "高血壓",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "高血壓"
+        },
+        {
+            "source": "蔡德秋",
+            "target": "消化不良",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "消化不良"
+        },
+        {
+            "source": "蔡德秋",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "青春痘"
+        },
+        {
+            "source": "蔡德秋",
+            "target": "婦兒體質調理",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "婦兒體質調理"
+        },
+        {
+            "source": "蔡德秋",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "蔡德能",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "坐骨神經痛"
+        },
+        {
+            "source": "蔡德能",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "關節炎"
+        },
+        {
+            "source": "蔡德能",
+            "target": "骨折",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "骨折"
+        },
+        {
+            "source": "蔡德能",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "火燙傷"
+        },
+        {
+            "source": "蔡德能",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "糖尿病傷口潰瘍"
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "扭挫傷"
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "中風後遺症"
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "各種酸痛"
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "針灸傷骨科",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "針灸傷骨科"
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "腰痛",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "腰痛"
+        },
+        {
+            "source": "楊朝帆",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "五十肩"
+        },
+        {
+            "source": "楊朝帆",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "楊朝帆",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "楊朝帆",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "楊朝帆",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "落枕"
+        },
+        {
+            "source": "楊裕燋",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "楊裕燋",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "楊裕燋",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "楊裕燋",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "楊裕燋",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "楊子温",
+            "target": "一般內婦兒科疾患",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "一般內婦兒科疾患"
+        },
+        {
+            "source": "楊子温",
+            "target": "體質調理",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "體質調理"
+        },
+        {
+            "source": "楊子温",
+            "target": "美容塑身",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "美容塑身"
+        },
+        {
+            "source": "楊子温",
+            "target": "身心科疾患",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "身心科疾患"
+        },
+        {
+            "source": "陳瑜泓",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "陳瑜泓",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "陳瑜泓",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "陳瑜泓",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "運動傷害"
+        },
+        {
+            "source": "陳瑜泓",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "賴怡君",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "賴怡君",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "小兒厭食"
+        },
+        {
+            "source": "賴怡君",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "睡眠障礙"
+        },
+        {
+            "source": "賴怡君",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "賴怡君",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "肥胖症"
+        },
+        {
+            "source": "吳品欣",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "吳品欣",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "吳品欣",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "白帶"
+        },
+        {
+            "source": "吳品欣",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "失眠"
+        },
+        {
+            "source": "吳品欣",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "何佩蓁",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "腸胃炎"
+        },
+        {
+            "source": "何佩蓁",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "何佩蓁",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "青春期轉骨"
+        },
+        {
+            "source": "何佩蓁",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "何佩蓁",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "湯婉綺",
+            "target": "消化性潰瘍",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "消化性潰瘍"
+        },
+        {
+            "source": "湯婉綺",
+            "target": "高血壓",
+            "value": 2
+        },
+        {
+            "source": "湯婉綺",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "湯婉綺",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "湯婉綺",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "林書帆",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "林書帆",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "林書帆",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "林書帆",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "林書帆",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "林冠良",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "林冠良",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "林冠良",
+            "target": "肩頸痠痛",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "肩頸痠痛"
+        },
+        {
+            "source": "林冠良",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "林冠良",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "沙鹿本院",
+            "target": "燒燙傷"
+        },
+        {
+            "source": "林冠良",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "何欣儒",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "何欣儒",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "何欣儒",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "何欣儒",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "何欣儒",
+            "target": "高血壓",
+            "value": 2
+        },
+        {
+            "source": "黃佩渝",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "黃佩渝",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "黃佩渝",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "黃佩渝",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "黃佩渝",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "萬志煌",
+            "target": "竹北分院",
+            "value": 1
+        },
+        {
+            "source": "林楷培",
+            "target": "竹北分院",
+            "value": 1
+        },
+        {
+            "source": "蔡宜軒",
+            "target": "竹北分院",
+            "value": 1
+        },
+        {
+            "source": "林孟寰",
+            "target": "竹北分院",
+            "value": 1
+        },
+        {
+            "source": "陳瑋瑩",
+            "target": "竹北分院",
+            "value": 1
+        },
+        {
+            "source": "鄧崴懋",
+            "target": "竹北分院",
+            "value": 1
+        },
+        {
+            "source": "王詠涵",
+            "target": "竹北分院",
+            "value": 1
+        },
+        {
+            "source": "高禎敏",
+            "target": "竹北分院",
+            "value": 1
+        },
+        {
+            "source": "陳思翰",
+            "target": "竹北分院",
+            "value": 1
+        },
+        {
+            "source": "孫偉寧",
+            "target": "竹北分院",
+            "value": 1
+        },
+        {
+            "source": "萬志煌",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "坐骨神經痛"
+        },
+        {
+            "source": "萬志煌",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "運動傷害"
+        },
+        {
+            "source": "萬志煌",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "火燙傷"
+        },
+        {
+            "source": "萬志煌",
+            "target": "脂肪肝",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "脂肪肝"
+        },
+        {
+            "source": "萬志煌",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "痛風"
+        },
+        {
+            "source": "林楷培",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "扭挫傷"
+        },
+        {
+            "source": "林楷培",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "林楷培",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "林楷培",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "燒燙傷"
+        },
+        {
+            "source": "林楷培",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "五十肩"
+        },
+        {
+            "source": "蔡宜軒",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "青春痘"
+        },
+        {
+            "source": "蔡宜軒",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "過敏性鼻炎"
+        },
+        {
+            "source": "蔡宜軒",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "感冒"
+        },
+        {
+            "source": "蔡宜軒",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "月經異常"
+        },
+        {
+            "source": "蔡宜軒",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "肥胖症"
+        },
+        {
+            "source": "林孟寰",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "林孟寰",
+            "target": "骨折",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "骨折"
+        },
+        {
+            "source": "林孟寰",
+            "target": "針灸傷骨科",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "針灸傷骨科"
+        },
+        {
+            "source": "林孟寰",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "林孟寰",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "陳瑋瑩",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "陳瑋瑩",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "小兒厭食"
+        },
+        {
+            "source": "陳瑋瑩",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "腸胃炎"
+        },
+        {
+            "source": "陳瑋瑩",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "失眠"
+        },
+        {
+            "source": "陳瑋瑩",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "鄧崴懋",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "關節炎"
+        },
+        {
+            "source": "鄧崴懋",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "落枕"
+        },
+        {
+            "source": "鄧崴懋",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "鄧崴懋",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "糖尿病傷口潰瘍"
+        },
+        {
+            "source": "鄧崴懋",
+            "target": "中風",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "中風"
+        },
+        {
+            "source": "王詠涵",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "睡眠障礙"
+        },
+        {
+            "source": "王詠涵",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "咳嗽"
+        },
+        {
+            "source": "王詠涵",
+            "target": "皮膚炎",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "皮膚炎"
+        },
+        {
+            "source": "王詠涵",
+            "target": "心臟病",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "心臟病"
+        },
+        {
+            "source": "王詠涵",
+            "target": "頭痛",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "頭痛"
+        },
+        {
+            "source": "高禎敏",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "高禎敏",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "高禎敏",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "青春期轉骨"
+        },
+        {
+            "source": "高禎敏",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "高禎敏",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "陳思翰",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "陳思翰",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "陳思翰",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "陳思翰",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "陳思翰",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "孫偉寧",
+            "target": "腸胃疾病",
+            "value": 2
+        },
+        {
+            "source": "竹北分院",
+            "target": "腸胃疾病"
+        },
+        {
+            "source": "孫偉寧",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "孫偉寧",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "孫偉寧",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "孫偉寧",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "余冠穎",
+            "target": "北屯分院",
+            "value": 1
+        },
+        {
+            "source": "許嘉文",
+            "target": "北屯分院",
+            "value": 1
+        },
+        {
+            "source": "李妤煊",
+            "target": "北屯分院",
+            "value": 1
+        },
+        {
+            "source": "顧諮慶",
+            "target": "北屯分院",
+            "value": 1
+        },
+        {
+            "source": "林書帆",
+            "target": "北屯分院",
+            "value": 1
+        },
+        {
+            "source": "蔡育庭",
+            "target": "北屯分院",
+            "value": 1
+        },
+        {
+            "source": "余冠穎",
+            "target": "不孕症",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "不孕症"
+        },
+        {
+            "source": "余冠穎",
+            "target": "肝病",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "肝病"
+        },
+        {
+            "source": "余冠穎",
+            "target": "鼻病",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "鼻病"
+        },
+        {
+            "source": "余冠穎",
+            "target": "心血管疾病",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "心血管疾病"
+        },
+        {
+            "source": "余冠穎",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "青春痘"
+        },
+        {
+            "source": "余冠穎",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "月經異常"
+        },
+        {
+            "source": "余冠穎",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "肥胖症"
+        },
+        {
+            "source": "許嘉文",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "坐骨神經痛"
+        },
+        {
+            "source": "許嘉文",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "各種酸痛"
+        },
+        {
+            "source": "許嘉文",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "五十肩"
+        },
+        {
+            "source": "許嘉文",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "運動傷害"
+        },
+        {
+            "source": "許嘉文",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "火燙傷"
+        },
+        {
+            "source": "李妤煊",
+            "target": "胃潰瘍",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "胃潰瘍"
+        },
+        {
+            "source": "李妤煊",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "睡眠障礙"
+        },
+        {
+            "source": "李妤煊",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "青春期轉骨"
+        },
+        {
+            "source": "李妤煊",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "小兒厭食"
+        },
+        {
+            "source": "李妤煊",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "顧諮慶",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "扭挫傷"
+        },
+        {
+            "source": "顧諮慶",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "落枕"
+        },
+        {
+            "source": "顧諮慶",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "關節炎"
+        },
+        {
+            "source": "顧諮慶",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "顧諮慶",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "糖尿病傷口潰瘍"
+        },
+        {
+            "source": "林書帆",
+            "target": "肌肉痠痛",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "肌肉痠痛"
+        },
+        {
+            "source": "林書帆",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "林書帆",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "燒燙傷"
+        },
+        {
+            "source": "林書帆",
+            "target": "一般內科",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "一般內科"
+        },
+        {
+            "source": "蔡育庭",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "北屯分院",
+            "target": "過敏性鼻炎"
+        },
+        {
+            "source": "蔡育庭",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "蔡育庭",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "蔡育庭",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "蔡育庭",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "林沛綺",
+            "target": "南屯分院",
+            "value": 1
+        },
+        {
+            "source": "何佩蓁",
+            "target": "南屯分院",
+            "value": 1
+        },
+        {
+            "source": "游家俊",
+            "target": "南屯分院",
+            "value": 1
+        },
+        {
+            "source": "賴威豪",
+            "target": "南屯分院",
+            "value": 1
+        },
+        {
+            "source": "黃英維",
+            "target": "南屯分院",
+            "value": 1
+        },
+        {
+            "source": "楊子温",
+            "target": "南屯分院",
+            "value": 1
+        },
+        {
+            "source": "賴佳鈺",
+            "target": "南屯分院",
+            "value": 1
+        },
+        {
+            "source": "陳怡綾",
+            "target": "南屯分院",
+            "value": 1
+        },
+        {
+            "source": "許凱銘",
+            "target": "南屯分院",
+            "value": 1
+        },
+        {
+            "source": "許芷瑜",
+            "target": "南屯分院",
+            "value": 1
+        },
+        {
+            "source": "林沛綺",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "感冒"
+        },
+        {
+            "source": "林沛綺",
+            "target": "頭痛",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "頭痛"
+        },
+        {
+            "source": "林沛綺",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "月經異常"
+        },
+        {
+            "source": "林沛綺",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "白帶"
+        },
+        {
+            "source": "林沛綺",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "過敏性鼻炎"
+        },
+        {
+            "source": "林沛綺",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "肥胖症"
+        },
+        {
+            "source": "何佩蓁",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "腸胃炎"
+        },
+        {
+            "source": "何佩蓁",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "何佩蓁",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "青春期轉骨"
+        },
+        {
+            "source": "何佩蓁",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "何佩蓁",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "游家俊",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "落枕"
+        },
+        {
+            "source": "游家俊",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "五十肩"
+        },
+        {
+            "source": "游家俊",
+            "target": "筋骨扭傷",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "筋骨扭傷"
+        },
+        {
+            "source": "游家俊",
+            "target": "針灸傷骨科",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "針灸傷骨科"
+        },
+        {
+            "source": "游家俊",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "痛風"
+        },
+        {
+            "source": "賴威豪",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "扭挫傷"
+        },
+        {
+            "source": "賴威豪",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "中風後遺症"
+        },
+        {
+            "source": "賴威豪",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "各種酸痛"
+        },
+        {
+            "source": "賴威豪",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "坐骨神經痛"
+        },
+        {
+            "source": "賴威豪",
+            "target": "腰痛",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "腰痛"
+        },
+        {
+            "source": "黃英維",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "黃英維",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "關節炎"
+        },
+        {
+            "source": "黃英維",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "黃英維",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "黃英維",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "楊子温",
+            "target": "子宮肌瘤",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "子宮肌瘤"
+        },
+        {
+            "source": "楊子温",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "睡眠障礙"
+        },
+        {
+            "source": "楊子温",
+            "target": "胃潰瘍",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "胃潰瘍"
+        },
+        {
+            "source": "楊子温",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "青春痘"
+        },
+        {
+            "source": "楊子温",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "賴佳鈺",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "賴佳鈺",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "賴佳鈺",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "小兒厭食"
+        },
+        {
+            "source": "賴佳鈺",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "賴佳鈺",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "陳怡綾",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "陳怡綾",
+            "target": "月經疾患",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "月經疾患"
+        },
+        {
+            "source": "陳怡綾",
+            "target": "腸胃疾病",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "腸胃疾病"
+        },
+        {
+            "source": "陳怡綾",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "陳怡綾",
+            "target": "埋線塑身",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "埋線塑身"
+        },
+        {
+            "source": "陳怡綾",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "許凱銘",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "許凱銘",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "運動傷害"
+        },
+        {
+            "source": "許凱銘",
+            "target": "針灸傷骨科",
+            "value": 2
+        },
+        {
+            "source": "許凱銘",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "燒燙傷"
+        },
+        {
+            "source": "許凱銘",
+            "target": "急性腰扭傷",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "急性腰扭傷"
+        },
+        {
+            "source": "許凱銘",
+            "target": "增高轉骨",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "增高轉骨"
+        },
+        {
+            "source": "許芷瑜",
+            "target": "婦兒體質調理",
+            "value": 2
+        },
+        {
+            "source": "南屯分院",
+            "target": "婦兒體質調理"
+        },
+        {
+            "source": "許芷瑜",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "許芷瑜",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "許芷瑜",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "許芷瑜",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "邱炳琳",
+            "target": "斗六分院",
+            "value": 1
+        },
+        {
+            "source": "蔡東皇",
+            "target": "斗六分院",
+            "value": 1
+        },
+        {
+            "source": "賴滿穗",
+            "target": "斗六分院",
+            "value": 1
+        },
+        {
+            "source": "劉春足",
+            "target": "斗六分院",
+            "value": 1
+        },
+        {
+            "source": "翁睿苓",
+            "target": "斗六分院",
+            "value": 1
+        },
+        {
+            "source": "曾泓翔",
+            "target": "斗六分院",
+            "value": 1
+        },
+        {
+            "source": "陳威延",
+            "target": "斗六分院",
+            "value": 1
+        },
+        {
+            "source": "張仲樵",
+            "target": "斗六分院",
+            "value": 1
+        },
+        {
+            "source": "李宗倫",
+            "target": "斗六分院",
+            "value": 1
+        },
+        {
+            "source": "黃郁淳",
+            "target": "斗六分院",
+            "value": 1
+        },
+        {
+            "source": "楊子進",
+            "target": "斗六分院",
+            "value": 1
+        },
+        {
+            "source": "官盈安",
+            "target": "斗六分院",
+            "value": 1
+        },
+        {
+            "source": "邱炳琳",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "扭挫傷"
+        },
+        {
+            "source": "邱炳琳",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "五十肩"
+        },
+        {
+            "source": "邱炳琳",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "落枕"
+        },
+        {
+            "source": "邱炳琳",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "坐骨神經痛"
+        },
+        {
+            "source": "邱炳琳",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "火燙傷"
+        },
+        {
+            "source": "邱炳琳",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "糖尿病傷口潰瘍"
+        },
+        {
+            "source": "蔡東皇",
+            "target": "腰痛",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "腰痛"
+        },
+        {
+            "source": "蔡東皇",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "蔡東皇",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "關節炎"
+        },
+        {
+            "source": "蔡東皇",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "運動傷害"
+        },
+        {
+            "source": "蔡東皇",
+            "target": "骨刺",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "骨刺"
+        },
+        {
+            "source": "賴滿穗",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "感冒"
+        },
+        {
+            "source": "賴滿穗",
+            "target": "胃潰瘍",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "胃潰瘍"
+        },
+        {
+            "source": "賴滿穗",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "咳嗽"
+        },
+        {
+            "source": "賴滿穗",
+            "target": "高血壓",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "高血壓"
+        },
+        {
+            "source": "賴滿穗",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "月經異常"
+        },
+        {
+            "source": "賴滿穗",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "肥胖症"
+        },
+        {
+            "source": "劉春足",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "腸胃炎"
+        },
+        {
+            "source": "劉春足",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "劉春足",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "青春期轉骨"
+        },
+        {
+            "source": "劉春足",
+            "target": "消化不良",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "消化不良"
+        },
+        {
+            "source": "劉春足",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "翁睿苓",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "翁睿苓",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "翁睿苓",
+            "target": "心血管疾病",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "心血管疾病"
+        },
+        {
+            "source": "翁睿苓",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "青春痘"
+        },
+        {
+            "source": "翁睿苓",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "曾泓翔",
+            "target": "筋骨扭傷",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "筋骨扭傷"
+        },
+        {
+            "source": "曾泓翔",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "曾泓翔",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "曾泓翔",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "曾泓翔",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "中風後遺症"
+        },
+        {
+            "source": "陳威延",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "陳威延",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "痛風"
+        },
+        {
+            "source": "陳威延",
+            "target": "針灸傷骨科",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "針灸傷骨科"
+        },
+        {
+            "source": "陳威延",
+            "target": "腰痛",
+            "value": 2
+        },
+        {
+            "source": "陳威延",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "張仲樵",
+            "target": "退化性關節炎",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "退化性關節炎"
+        },
+        {
+            "source": "張仲樵",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "張仲樵",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "張仲樵",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "張仲樵",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "李宗倫",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "李宗倫",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "李宗倫",
+            "target": "中風",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "中風"
+        },
+        {
+            "source": "李宗倫",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "李宗倫",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "黃郁淳",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "黃郁淳",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "黃郁淳",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "黃郁淳",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "黃郁淳",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "失眠"
+        },
+        {
+            "source": "楊子進",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "楊子進",
+            "target": "筋骨扭傷",
+            "value": 2
+        },
+        {
+            "source": "楊子進",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "燒燙傷"
+        },
+        {
+            "source": "楊子進",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "官盈安",
+            "target": "腸胃疾患",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "腸胃疾患"
+        },
+        {
+            "source": "官盈安",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "過敏性鼻炎"
+        },
+        {
+            "source": "官盈安",
+            "target": "月經不調",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "月經不調"
+        },
+        {
+            "source": "官盈安",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "睡眠障礙"
+        },
+        {
+            "source": "官盈安",
+            "target": "肥胖/減重",
+            "value": 2
+        },
+        {
+            "source": "斗六分院",
+            "target": "肥胖/減重"
+        },
+        {
+            "source": "林淑鑾",
+            "target": "鹿港分院",
+            "value": 1
+        },
+        {
+            "source": "楊添振",
+            "target": "鹿港分院",
+            "value": 1
+        },
+        {
+            "source": "林怡君",
+            "target": "鹿港分院",
+            "value": 1
+        },
+        {
+            "source": "李振綱",
+            "target": "鹿港分院",
+            "value": 1
+        },
+        {
+            "source": "賴怡君",
+            "target": "鹿港分院",
+            "value": 1
+        },
+        {
+            "source": "余昀金",
+            "target": "鹿港分院",
+            "value": 1
+        },
+        {
+            "source": "嚴友蓬",
+            "target": "鹿港分院",
+            "value": 1
+        },
+        {
+            "source": "吳孟儒",
+            "target": "鹿港分院",
+            "value": 1
+        },
+        {
+            "source": "林淑鑾",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "感冒"
+        },
+        {
+            "source": "林淑鑾",
+            "target": "糖尿病",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "糖尿病"
+        },
+        {
+            "source": "林淑鑾",
+            "target": "高血壓",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "高血壓"
+        },
+        {
+            "source": "林淑鑾",
+            "target": "子宮肌瘤",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "子宮肌瘤"
+        },
+        {
+            "source": "林淑鑾",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "月經異常"
+        },
+        {
+            "source": "林淑鑾",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "肥胖症"
+        },
+        {
+            "source": "楊添振",
+            "target": "筋骨扭傷",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "筋骨扭傷"
+        },
+        {
+            "source": "楊添振",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "落枕"
+        },
+        {
+            "source": "楊添振",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "運動傷害"
+        },
+        {
+            "source": "楊添振",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "關節炎"
+        },
+        {
+            "source": "楊添振",
+            "target": "骨刺",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "骨刺"
+        },
+        {
+            "source": "楊添振",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "痛風"
+        },
+        {
+            "source": "林怡君",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "白帶"
+        },
+        {
+            "source": "林怡君",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "小兒厭食"
+        },
+        {
+            "source": "林怡君",
+            "target": "高血壓",
+            "value": 2
+        },
+        {
+            "source": "林怡君",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "林怡君",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "李振綱",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "扭挫傷"
+        },
+        {
+            "source": "李振綱",
+            "target": "退化性關節炎",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "退化性關節炎"
+        },
+        {
+            "source": "李振綱",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "燒燙傷"
+        },
+        {
+            "source": "李振綱",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "坐骨神經痛"
+        },
+        {
+            "source": "李振綱",
+            "target": "腰痛",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "腰痛"
+        },
+        {
+            "source": "賴怡君",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "青春痘"
+        },
+        {
+            "source": "賴怡君",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "賴怡君",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "睡眠障礙"
+        },
+        {
+            "source": "賴怡君",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "賴怡君",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "余昀金",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "腸胃炎"
+        },
+        {
+            "source": "余昀金",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "咳嗽"
+        },
+        {
+            "source": "余昀金",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "青春期轉骨"
+        },
+        {
+            "source": "余昀金",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "余昀金",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "失眠"
+        },
+        {
+            "source": "嚴友蓬",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "嚴友蓬",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "各種酸痛"
+        },
+        {
+            "source": "嚴友蓬",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "五十肩"
+        },
+        {
+            "source": "嚴友蓬",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "嚴友蓬",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "鹿港分院",
+            "target": "火燙傷"
+        },
+        {
+            "source": "吳孟儒",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "吳孟儒",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "吳孟儒",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "吳孟儒",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "吳孟儒",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "王錦城",
+            "target": "虎尾分院",
+            "value": 1
+        },
+        {
+            "source": "蔡佩蓁",
+            "target": "虎尾分院",
+            "value": 1
+        },
+        {
+            "source": "曾泓翔",
+            "target": "虎尾分院",
+            "value": 1
+        },
+        {
+            "source": "賴滿穗",
+            "target": "虎尾分院",
+            "value": 1
+        },
+        {
+            "source": "翁睿苓",
+            "target": "虎尾分院",
+            "value": 1
+        },
+        {
+            "source": "陳函儀",
+            "target": "虎尾分院",
+            "value": 1
+        },
+        {
+            "source": "蕭詠之",
+            "target": "虎尾分院",
+            "value": 1
+        },
+        {
+            "source": "黃鈺傑",
+            "target": "虎尾分院",
+            "value": 1
+        },
+        {
+            "source": "王錦城",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "坐骨神經痛"
+        },
+        {
+            "source": "王錦城",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "運動傷害"
+        },
+        {
+            "source": "王錦城",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "火燙傷"
+        },
+        {
+            "source": "王錦城",
+            "target": "脂肪肝",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "脂肪肝"
+        },
+        {
+            "source": "王錦城",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "痛風"
+        },
+        {
+            "source": "蔡佩蓁",
+            "target": "頭痛",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "頭痛"
+        },
+        {
+            "source": "蔡佩蓁",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "月經異常"
+        },
+        {
+            "source": "蔡佩蓁",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "白帶"
+        },
+        {
+            "source": "蔡佩蓁",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "感冒"
+        },
+        {
+            "source": "蔡佩蓁",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "過敏性鼻炎"
+        },
+        {
+            "source": "蔡佩蓁",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "肥胖症"
+        },
+        {
+            "source": "曾泓翔",
+            "target": "筋骨扭傷",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "筋骨扭傷"
+        },
+        {
+            "source": "曾泓翔",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "曾泓翔",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "落枕"
+        },
+        {
+            "source": "曾泓翔",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "曾泓翔",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "中風後遺症"
+        },
+        {
+            "source": "賴滿穗",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "賴滿穗",
+            "target": "胃潰瘍",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "胃潰瘍"
+        },
+        {
+            "source": "賴滿穗",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "咳嗽"
+        },
+        {
+            "source": "賴滿穗",
+            "target": "高血壓",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "高血壓"
+        },
+        {
+            "source": "賴滿穗",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "賴滿穗",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "翁睿苓",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "翁睿苓",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "腸胃炎"
+        },
+        {
+            "source": "翁睿苓",
+            "target": "心血管疾病",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "心血管疾病"
+        },
+        {
+            "source": "翁睿苓",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "青春痘"
+        },
+        {
+            "source": "翁睿苓",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "陳函儀",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "陳函儀",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "陳函儀",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "青春期轉骨"
+        },
+        {
+            "source": "蕭詠之",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "蕭詠之",
+            "target": "腸胃疾患",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "腸胃疾患"
+        },
+        {
+            "source": "蕭詠之",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "燒燙傷"
+        },
+        {
+            "source": "蕭詠之",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "蕭詠之",
+            "target": "神經疾患",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "神經疾患"
+        },
+        {
+            "source": "蕭詠之",
+            "target": "網球肘",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "網球肘"
+        },
+        {
+            "source": "黃鈺傑",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "黃鈺傑",
+            "target": "坐骨神經",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "坐骨神經"
+        },
+        {
+            "source": "黃鈺傑",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "扭挫傷"
+        },
+        {
+            "source": "黃鈺傑",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "黃鈺傑",
+            "target": "顏面神經疾患",
+            "value": 2
+        },
+        {
+            "source": "虎尾分院",
+            "target": "顏面神經疾患"
+        },
+        {
+            "source": "翟慎言",
+            "target": "新竹分院",
+            "value": 1
+        },
+        {
+            "source": "王詠涵",
+            "target": "新竹分院",
+            "value": 1
+        },
+        {
+            "source": "陳竹潔",
+            "target": "新竹分院",
+            "value": 1
+        },
+        {
+            "source": "高禎敏",
+            "target": "新竹分院",
+            "value": 1
+        },
+        {
+            "source": "許耀家",
+            "target": "新竹分院",
+            "value": 1
+        },
+        {
+            "source": "高銘鍵",
+            "target": "新竹分院",
+            "value": 1
+        },
+        {
+            "source": "陳孟賢",
+            "target": "新竹分院",
+            "value": 1
+        },
+        {
+            "source": "謝尚諭",
+            "target": "新竹分院",
+            "value": 1
+        },
+        {
+            "source": "黃聖偉",
+            "target": "新竹分院",
+            "value": 1
+        },
+        {
+            "source": "李姿萱",
+            "target": "新竹分院",
+            "value": 1
+        },
+        {
+            "source": "翟慎言",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "扭挫傷"
+        },
+        {
+            "source": "翟慎言",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "五十肩"
+        },
+        {
+            "source": "翟慎言",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "坐骨神經痛"
+        },
+        {
+            "source": "翟慎言",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "過敏性鼻炎"
+        },
+        {
+            "source": "翟慎言",
+            "target": "消化道潰瘍",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "消化道潰瘍"
+        },
+        {
+            "source": "王詠涵",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "睡眠障礙"
+        },
+        {
+            "source": "王詠涵",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "咳嗽"
+        },
+        {
+            "source": "王詠涵",
+            "target": "皮膚炎",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "皮膚炎"
+        },
+        {
+            "source": "王詠涵",
+            "target": "心臟病",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "心臟病"
+        },
+        {
+            "source": "王詠涵",
+            "target": "頭痛",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "頭痛"
+        },
+        {
+            "source": "陳竹潔",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "感冒"
+        },
+        {
+            "source": "陳竹潔",
+            "target": "頭痛",
+            "value": 2
+        },
+        {
+            "source": "陳竹潔",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "月經異常"
+        },
+        {
+            "source": "陳竹潔",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "白帶"
+        },
+        {
+            "source": "陳竹潔",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "陳竹潔",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "肥胖症"
+        },
+        {
+            "source": "高禎敏",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "腸胃炎"
+        },
+        {
+            "source": "高禎敏",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "高禎敏",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "青春期轉骨"
+        },
+        {
+            "source": "高禎敏",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "失眠"
+        },
+        {
+            "source": "高禎敏",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "許耀家",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "許耀家",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "許耀家",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "許耀家",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "糖尿病傷口潰瘍"
+        },
+        {
+            "source": "許耀家",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "關節炎"
+        },
+        {
+            "source": "高銘鍵",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "火燙傷"
+        },
+        {
+            "source": "高銘鍵",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "落枕"
+        },
+        {
+            "source": "高銘鍵",
+            "target": "筋骨扭傷",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "筋骨扭傷"
+        },
+        {
+            "source": "高銘鍵",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "痛風"
+        },
+        {
+            "source": "高銘鍵",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "各種酸痛"
+        },
+        {
+            "source": "陳孟賢",
+            "target": "筋骨扭傷",
+            "value": 2
+        },
+        {
+            "source": "陳孟賢",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "陳孟賢",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "陳孟賢",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "陳孟賢",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "中風後遺症"
+        },
+        {
+            "source": "謝尚諭",
+            "target": "肩頸痠痛",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "肩頸痠痛"
+        },
+        {
+            "source": "謝尚諭",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "運動傷害"
+        },
+        {
+            "source": "謝尚諭",
+            "target": "足底筋膜炎",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "足底筋膜炎"
+        },
+        {
+            "source": "謝尚諭",
+            "target": "急性扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "急性扭挫傷"
+        },
+        {
+            "source": "謝尚諭",
+            "target": "下背痛",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "下背痛"
+        },
+        {
+            "source": "黃聖偉",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "黃聖偉",
+            "target": "退化性關節炎",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "退化性關節炎"
+        },
+        {
+            "source": "黃聖偉",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "黃聖偉",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "黃聖偉",
+            "target": "顏面神經麻痺",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "顏面神經麻痺"
+        },
+        {
+            "source": "李姿萱",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "李姿萱",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "李姿萱",
+            "target": "消化不良",
+            "value": 2
+        },
+        {
+            "source": "新竹分院",
+            "target": "消化不良"
+        },
+        {
+            "source": "李姿萱",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "李姿萱",
+            "target": "肥胖症",
+            "value": 2
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "林奕丞"
+        },
+        {
+            "group": 1,
+            "id": "蘇韻如"
+        },
+        {
+            "group": 1,
+            "id": "廖志彰"
+        },
+        {
+            "group": 1,
+            "id": "林維儀"
+        },
+        {
+            "group": 1,
+            "id": "游秉燁"
+        },
+        {
+            "group": 1,
+            "id": "蔡育庭"
+        },
+        {
+            "group": 3,
+            "id": "草屯分院"
+        },
+        {
+            "group": 2,
+            "id": "糖尿病傷口潰瘍"
+        },
+        {
+            "group": 2,
+            "id": "關節炎"
+        },
+        {
+            "group": 2,
+            "id": "火燙傷"
+        },
+        {
+            "group": 2,
+            "id": "感冒"
+        },
+        {
+            "group": 2,
+            "id": "新冠後遺症"
+        },
+        {
+            "group": 2,
+            "id": "咳嗽"
+        },
+        {
+            "group": 2,
+            "id": "婦科"
+        },
+        {
+            "group": 2,
+            "id": "小兒厭食"
+        },
+        {
+            "group": 2,
+            "id": "扭挫傷"
+        },
+        {
+            "group": 2,
+            "id": "坐骨神經痛"
+        },
+        {
+            "group": 2,
+            "id": "鼻炎"
+        },
+        {
+            "group": 2,
+            "id": "運動傷害"
+        },
+        {
+            "group": 2,
+            "id": "皮膚病"
+        },
+        {
+            "group": 2,
+            "id": "青春痘 "
+        },
+        {
+            "group": 2,
+            "id": "腸胃炎"
+        },
+        {
+            "group": 2,
+            "id": "子宮內膜異位症"
+        },
+        {
+            "group": 2,
+            "id": "過敏性鼻炎"
+        },
+        {
+            "group": 2,
+            "id": "各種酸痛"
+        },
+        {
+            "group": 2,
+            "id": "落枕"
+        },
+        {
+            "group": 2,
+            "id": "胃潰瘍"
+        },
+        {
+            "group": 2,
+            "id": "失眠"
+        },
+        {
+            "group": 2,
+            "id": "五十肩 特別門診 "
+        },
+        {
+            "group": 2,
+            "id": "肥胖症"
+        },
+        {
+            "group": 1,
+            "id": "徐立杰"
+        },
+        {
+            "group": 1,
+            "id": "余俊思"
+        },
+        {
+            "group": 1,
+            "id": "陳惠禎"
+        },
+        {
+            "group": 1,
+            "id": "吳安溪"
+        },
+        {
+            "group": 1,
+            "id": "蔡佩曄"
+        },
+        {
+            "group": 1,
+            "id": "吳靜欣"
+        },
+        {
+            "group": 1,
+            "id": "秦健哲"
+        },
+        {
+            "group": 1,
+            "id": "吳家勳"
+        },
+        {
+            "group": 3,
+            "id": "平鎮分院"
+        },
+        {
+            "group": 2,
+            "id": "青春期轉骨"
+        },
+        {
+            "group": 2,
+            "id": "燒燙傷"
+        },
+        {
+            "group": 2,
+            "id": "針灸傷骨科"
+        },
+        {
+            "group": 2,
+            "id": "骨刺"
+        },
+        {
+            "group": 2,
+            "id": "退化性關節炎"
+        },
+        {
+            "group": 2,
+            "id": "消化道潰瘍"
+        },
+        {
+            "group": 2,
+            "id": "中風後遺症"
+        },
+        {
+            "group": 2,
+            "id": "白帶"
+        },
+        {
+            "group": 2,
+            "id": "青春痘"
+        },
+        {
+            "group": 2,
+            "id": "心血管疾病"
+        },
+        {
+            "group": 2,
+            "id": "痛風"
+        },
+        {
+            "group": 2,
+            "id": "筋骨扭傷"
+        },
+        {
+            "group": 2,
+            "id": "月經異常"
+        },
+        {
+            "group": 2,
+            "id": "五十肩"
+        },
+        {
+            "group": 2,
+            "id": "中風"
+        },
+        {
+            "group": 1,
+            "id": "楊子温"
+        },
+        {
+            "group": 1,
+            "id": "李秉昌"
+        },
+        {
+            "group": 1,
+            "id": "賴佳鈺"
+        },
+        {
+            "group": 1,
+            "id": "湯婉綺"
+        },
+        {
+            "group": 1,
+            "id": "石名軒"
+        },
+        {
+            "group": 1,
+            "id": "林良諺"
+        },
+        {
+            "group": 1,
+            "id": "歐宥恩"
+        },
+        {
+            "group": 3,
+            "id": "大里分院"
+        },
+        {
+            "group": 2,
+            "id": "一般內婦兒科疾患"
+        },
+        {
+            "group": 2,
+            "id": "消化性潰瘍"
+        },
+        {
+            "group": 2,
+            "id": "體質調理"
+        },
+        {
+            "group": 2,
+            "id": "肩頸痠痛"
+        },
+        {
+            "group": 2,
+            "id": "睡眠障礙"
+        },
+        {
+            "group": 2,
+            "id": "美容塑身"
+        },
+        {
+            "group": 2,
+            "id": "高血壓"
+        },
+        {
+            "group": 2,
+            "id": "糖尿病傷口"
+        },
+        {
+            "group": 2,
+            "id": "骨折"
+        },
+        {
+            "group": 2,
+            "id": "身心科疾患"
+        },
+        {
+            "group": 1,
+            "id": "張永明"
+        },
+        {
+            "group": 1,
+            "id": "余冠穎"
+        },
+        {
+            "group": 1,
+            "id": "李泓葳"
+        },
+        {
+            "group": 1,
+            "id": "劉漢強"
+        },
+        {
+            "group": 1,
+            "id": "許智凱"
+        },
+        {
+            "group": 1,
+            "id": "葉濬愷"
+        },
+        {
+            "group": 1,
+            "id": "劉夢儒"
+        },
+        {
+            "group": 1,
+            "id": "林文瀚"
+        },
+        {
+            "group": 3,
+            "id": "豐原分院"
+        },
+        {
+            "group": 2,
+            "id": "肌肉痠痛"
+        },
+        {
+            "group": 2,
+            "id": "韌帶發炎"
+        },
+        {
+            "group": 2,
+            "id": "攝護腺"
+        },
+        {
+            "group": 2,
+            "id": "消化道疾病"
+        },
+        {
+            "group": 2,
+            "id": "腫瘤癌症調理"
+        },
+        {
+            "group": 2,
+            "id": "婦兒體質調理"
+        },
+        {
+            "group": 2,
+            "id": "子宮肌瘤"
+        },
+        {
+            "group": 2,
+            "id": "腎臟病"
+        },
+        {
+            "group": 2,
+            "id": "過敏"
+        },
+        {
+            "group": 2,
+            "id": "不孕症"
+        },
+        {
+            "group": 2,
+            "id": "一般內科"
+        },
+        {
+            "group": 2,
+            "id": "退化關節炎酸痛"
+        },
+        {
+            "group": 1,
+            "id": "林壁源"
+        },
+        {
+            "group": 1,
+            "id": "何俊佑"
+        },
+        {
+            "group": 1,
+            "id": "吳品欣"
+        },
+        {
+            "group": 1,
+            "id": "周珮瑜"
+        },
+        {
+            "group": 1,
+            "id": "趙琇民"
+        },
+        {
+            "group": 1,
+            "id": "林冠良"
+        },
+        {
+            "group": 1,
+            "id": "陳海康"
+        },
+        {
+            "group": 3,
+            "id": "和美分院"
+        },
+        {
+            "group": 2,
+            "id": "消化系統疾病"
+        },
+        {
+            "group": 2,
+            "id": "腕隧道症候群"
+        },
+        {
+            "group": 1,
+            "id": "張裕靆"
+        },
+        {
+            "group": 1,
+            "id": "郭名凱"
+        },
+        {
+            "group": 1,
+            "id": "孫祥文"
+        },
+        {
+            "group": 1,
+            "id": "陳怡"
+        },
+        {
+            "group": 1,
+            "id": "蘇柏誠"
+        },
+        {
+            "group": 1,
+            "id": "施秀雯"
+        },
+        {
+            "group": 1,
+            "id": "羅方吾"
+        },
+        {
+            "group": 1,
+            "id": "陳信豪"
+        },
+        {
+            "group": 3,
+            "id": "大甲分院"
+        },
+        {
+            "group": 2,
+            "id": "腰痛"
+        },
+        {
+            "group": 2,
+            "id": "急性扭挫傷"
+        },
+        {
+            "group": 1,
+            "id": "蔡全德"
+        },
+        {
+            "group": 1,
+            "id": "蔡德秋"
+        },
+        {
+            "group": 1,
+            "id": "蔡德能"
+        },
+        {
+            "group": 1,
+            "id": "楊朝帆"
+        },
+        {
+            "group": 1,
+            "id": "楊裕燋"
+        },
+        {
+            "group": 1,
+            "id": "陳瑜泓"
+        },
+        {
+            "group": 1,
+            "id": "賴怡君"
+        },
+        {
+            "group": 1,
+            "id": "何佩蓁"
+        },
+        {
+            "group": 1,
+            "id": "林書帆"
+        },
+        {
+            "group": 1,
+            "id": "何欣儒"
+        },
+        {
+            "group": 1,
+            "id": "黃佩渝"
+        },
+        {
+            "group": 3,
+            "id": "沙鹿本院"
+        },
+        {
+            "group": 2,
+            "id": "消化不良"
+        },
+        {
+            "group": 1,
+            "id": "萬志煌"
+        },
+        {
+            "group": 1,
+            "id": "林楷培"
+        },
+        {
+            "group": 1,
+            "id": "蔡宜軒"
+        },
+        {
+            "group": 1,
+            "id": "林孟寰"
+        },
+        {
+            "group": 1,
+            "id": "陳瑋瑩"
+        },
+        {
+            "group": 1,
+            "id": "鄧崴懋"
+        },
+        {
+            "group": 1,
+            "id": "王詠涵"
+        },
+        {
+            "group": 1,
+            "id": "高禎敏"
+        },
+        {
+            "group": 1,
+            "id": "陳思翰"
+        },
+        {
+            "group": 1,
+            "id": "孫偉寧"
+        },
+        {
+            "group": 3,
+            "id": "竹北分院"
+        },
+        {
+            "group": 2,
+            "id": "頭痛"
+        },
+        {
+            "group": 2,
+            "id": "皮膚炎"
+        },
+        {
+            "group": 2,
+            "id": "腸胃疾病"
+        },
+        {
+            "group": 2,
+            "id": "脂肪肝"
+        },
+        {
+            "group": 2,
+            "id": "心臟病"
+        },
+        {
+            "group": 1,
+            "id": "許嘉文"
+        },
+        {
+            "group": 1,
+            "id": "李妤煊"
+        },
+        {
+            "group": 1,
+            "id": "顧諮慶"
+        },
+        {
+            "group": 3,
+            "id": "北屯分院"
+        },
+        {
+            "group": 2,
+            "id": "鼻病"
+        },
+        {
+            "group": 2,
+            "id": "肝病"
+        },
+        {
+            "group": 1,
+            "id": "林沛綺"
+        },
+        {
+            "group": 1,
+            "id": "游家俊"
+        },
+        {
+            "group": 1,
+            "id": "賴威豪"
+        },
+        {
+            "group": 1,
+            "id": "黃英維"
+        },
+        {
+            "group": 1,
+            "id": "陳怡綾"
+        },
+        {
+            "group": 1,
+            "id": "許凱銘"
+        },
+        {
+            "group": 1,
+            "id": "許芷瑜"
+        },
+        {
+            "group": 3,
+            "id": "南屯分院"
+        },
+        {
+            "group": 2,
+            "id": "增高轉骨"
+        },
+        {
+            "group": 2,
+            "id": "埋線塑身"
+        },
+        {
+            "group": 2,
+            "id": "急性腰扭傷"
+        },
+        {
+            "group": 2,
+            "id": "月經疾患"
+        },
+        {
+            "group": 1,
+            "id": "邱炳琳"
+        },
+        {
+            "group": 1,
+            "id": "蔡東皇"
+        },
+        {
+            "group": 1,
+            "id": "賴滿穗"
+        },
+        {
+            "group": 1,
+            "id": "劉春足"
+        },
+        {
+            "group": 1,
+            "id": "翁睿苓"
+        },
+        {
+            "group": 1,
+            "id": "曾泓翔"
+        },
+        {
+            "group": 1,
+            "id": "陳威延"
+        },
+        {
+            "group": 1,
+            "id": "張仲樵"
+        },
+        {
+            "group": 1,
+            "id": "李宗倫"
+        },
+        {
+            "group": 1,
+            "id": "黃郁淳"
+        },
+        {
+            "group": 1,
+            "id": "楊子進"
+        },
+        {
+            "group": 1,
+            "id": "官盈安"
+        },
+        {
+            "group": 3,
+            "id": "斗六分院"
+        },
+        {
+            "group": 2,
+            "id": "月經不調"
+        },
+        {
+            "group": 2,
+            "id": "肥胖/減重"
+        },
+        {
+            "group": 2,
+            "id": "腸胃疾患"
+        },
+        {
+            "group": 1,
+            "id": "林淑鑾"
+        },
+        {
+            "group": 1,
+            "id": "楊添振"
+        },
+        {
+            "group": 1,
+            "id": "林怡君"
+        },
+        {
+            "group": 1,
+            "id": "李振綱"
+        },
+        {
+            "group": 1,
+            "id": "余昀金"
+        },
+        {
+            "group": 1,
+            "id": "嚴友蓬"
+        },
+        {
+            "group": 1,
+            "id": "吳孟儒"
+        },
+        {
+            "group": 3,
+            "id": "鹿港分院"
+        },
+        {
+            "group": 2,
+            "id": "糖尿病"
+        },
+        {
+            "group": 1,
+            "id": "王錦城"
+        },
+        {
+            "group": 1,
+            "id": "蔡佩蓁"
+        },
+        {
+            "group": 1,
+            "id": "陳函儀"
+        },
+        {
+            "group": 1,
+            "id": "蕭詠之"
+        },
+        {
+            "group": 1,
+            "id": "黃鈺傑"
+        },
+        {
+            "group": 3,
+            "id": "虎尾分院"
+        },
+        {
+            "group": 2,
+            "id": "網球肘"
+        },
+        {
+            "group": 2,
+            "id": "坐骨神經"
+        },
+        {
+            "group": 2,
+            "id": "顏面神經疾患"
+        },
+        {
+            "group": 2,
+            "id": "神經疾患"
+        },
+        {
+            "group": 1,
+            "id": "翟慎言"
+        },
+        {
+            "group": 1,
+            "id": "陳竹潔"
+        },
+        {
+            "group": 1,
+            "id": "許耀家"
+        },
+        {
+            "group": 1,
+            "id": "高銘鍵"
+        },
+        {
+            "group": 1,
+            "id": "陳孟賢"
+        },
+        {
+            "group": 1,
+            "id": "謝尚諭"
+        },
+        {
+            "group": 1,
+            "id": "黃聖偉"
+        },
+        {
+            "group": 1,
+            "id": "李姿萱"
+        },
+        {
+            "group": 3,
+            "id": "新竹分院"
+        },
+        {
+            "group": 2,
+            "id": "下背痛"
+        },
+        {
+            "group": 2,
+            "id": "足底筋膜炎"
+        },
+        {
+            "group": 2,
+            "id": "顏面神經麻痺"
+        }
+    ]
+}

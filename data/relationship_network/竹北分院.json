@@ -1,0 +1,412 @@
+﻿{
+    "links": [
+        {
+            "source": "萬志煌",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "萬志煌",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "萬志煌",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "萬志煌",
+            "target": "脂肪肝",
+            "value": 2
+        },
+        {
+            "source": "萬志煌",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "林楷培",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "林楷培",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "林楷培",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "林楷培",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "林楷培",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "蔡宜軒",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "蔡宜軒",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "蔡宜軒",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "蔡宜軒",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "蔡宜軒",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "林孟寰",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "林孟寰",
+            "target": "骨折",
+            "value": 2
+        },
+        {
+            "source": "林孟寰",
+            "target": "針灸傷骨科",
+            "value": 2
+        },
+        {
+            "source": "林孟寰",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "林孟寰",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "陳瑋瑩",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "陳瑋瑩",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "陳瑋瑩",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "陳瑋瑩",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "陳瑋瑩",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "鄧崴懋",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "鄧崴懋",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "鄧崴懋",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "鄧崴懋",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "鄧崴懋",
+            "target": "中風",
+            "value": 2
+        },
+        {
+            "source": "王詠涵",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "王詠涵",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "王詠涵",
+            "target": "皮膚炎",
+            "value": 2
+        },
+        {
+            "source": "王詠涵",
+            "target": "心臟病",
+            "value": 2
+        },
+        {
+            "source": "王詠涵",
+            "target": "頭痛",
+            "value": 2
+        },
+        {
+            "source": "高禎敏",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "高禎敏",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "高禎敏",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "高禎敏",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "高禎敏",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "陳思翰",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "陳思翰",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "陳思翰",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "陳思翰",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "陳思翰",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "孫偉寧",
+            "target": "腸胃疾病",
+            "value": 2
+        },
+        {
+            "source": "孫偉寧",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "孫偉寧",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "孫偉寧",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "孫偉寧",
+            "target": "肥胖症",
+            "value": 2
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "萬志煌"
+        },
+        {
+            "group": 1,
+            "id": "林楷培"
+        },
+        {
+            "group": 1,
+            "id": "蔡宜軒"
+        },
+        {
+            "group": 1,
+            "id": "林孟寰"
+        },
+        {
+            "group": 1,
+            "id": "陳瑋瑩"
+        },
+        {
+            "group": 1,
+            "id": "鄧崴懋"
+        },
+        {
+            "group": 1,
+            "id": "王詠涵"
+        },
+        {
+            "group": 1,
+            "id": "高禎敏"
+        },
+        {
+            "group": 1,
+            "id": "陳思翰"
+        },
+        {
+            "group": 1,
+            "id": "孫偉寧"
+        },
+        {
+            "group": 2,
+            "id": "糖尿病傷口潰瘍"
+        },
+        {
+            "group": 2,
+            "id": "青春期轉骨"
+        },
+        {
+            "group": 2,
+            "id": "關節炎"
+        },
+        {
+            "group": 2,
+            "id": "火燙傷"
+        },
+        {
+            "group": 2,
+            "id": "燒燙傷"
+        },
+        {
+            "group": 2,
+            "id": "感冒"
+        },
+        {
+            "group": 2,
+            "id": "針灸傷骨科"
+        },
+        {
+            "group": 2,
+            "id": "咳嗽"
+        },
+        {
+            "group": 2,
+            "id": "頭痛"
+        },
+        {
+            "group": 2,
+            "id": "皮膚炎"
+        },
+        {
+            "group": 2,
+            "id": "腸胃疾病"
+        },
+        {
+            "group": 2,
+            "id": "脂肪肝"
+        },
+        {
+            "group": 2,
+            "id": "小兒厭食"
+        },
+        {
+            "group": 2,
+            "id": "扭挫傷"
+        },
+        {
+            "group": 2,
+            "id": "坐骨神經痛"
+        },
+        {
+            "group": 2,
+            "id": "運動傷害"
+        },
+        {
+            "group": 2,
+            "id": "心臟病"
+        },
+        {
+            "group": 2,
+            "id": "睡眠障礙"
+        },
+        {
+            "group": 2,
+            "id": "腸胃炎"
+        },
+        {
+            "group": 2,
+            "id": "青春痘"
+        },
+        {
+            "group": 2,
+            "id": "痛風"
+        },
+        {
+            "group": 2,
+            "id": "過敏性鼻炎"
+        },
+        {
+            "group": 2,
+            "id": "月經異常"
+        },
+        {
+            "group": 2,
+            "id": "落枕"
+        },
+        {
+            "group": 2,
+            "id": "五十肩"
+        },
+        {
+            "group": 2,
+            "id": "失眠"
+        },
+        {
+            "group": 2,
+            "id": "骨折"
+        },
+        {
+            "group": 2,
+            "id": "肥胖症"
+        },
+        {
+            "group": 2,
+            "id": "中風"
+        }
+    ]
+}

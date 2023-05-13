@@ -1,0 +1,360 @@
+﻿{
+    "links": [
+        {
+            "source": "林淑鑾",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "林淑鑾",
+            "target": "糖尿病",
+            "value": 2
+        },
+        {
+            "source": "林淑鑾",
+            "target": "高血壓",
+            "value": 2
+        },
+        {
+            "source": "林淑鑾",
+            "target": "子宮肌瘤",
+            "value": 2
+        },
+        {
+            "source": "林淑鑾",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "林淑鑾",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "楊添振",
+            "target": "筋骨扭傷",
+            "value": 2
+        },
+        {
+            "source": "楊添振",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "楊添振",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "楊添振",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "楊添振",
+            "target": "骨刺",
+            "value": 2
+        },
+        {
+            "source": "楊添振",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "林怡君",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "林怡君",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "林怡君",
+            "target": "高血壓",
+            "value": 2
+        },
+        {
+            "source": "林怡君",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "林怡君",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "李振綱",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "李振綱",
+            "target": "退化性關節炎",
+            "value": 2
+        },
+        {
+            "source": "李振綱",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "李振綱",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "李振綱",
+            "target": "腰痛",
+            "value": 2
+        },
+        {
+            "source": "賴怡君",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "賴怡君",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "賴怡君",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "賴怡君",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "賴怡君",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "余昀金",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "余昀金",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "余昀金",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "余昀金",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "余昀金",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "嚴友蓬",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "嚴友蓬",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "嚴友蓬",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "嚴友蓬",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "嚴友蓬",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "吳孟儒",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "吳孟儒",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "吳孟儒",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "吳孟儒",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "吳孟儒",
+            "target": "坐骨神經痛",
+            "value": 2
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "林淑鑾"
+        },
+        {
+            "group": 1,
+            "id": "楊添振"
+        },
+        {
+            "group": 1,
+            "id": "林怡君"
+        },
+        {
+            "group": 1,
+            "id": "李振綱"
+        },
+        {
+            "group": 1,
+            "id": "賴怡君"
+        },
+        {
+            "group": 1,
+            "id": "余昀金"
+        },
+        {
+            "group": 1,
+            "id": "嚴友蓬"
+        },
+        {
+            "group": 1,
+            "id": "吳孟儒"
+        },
+        {
+            "group": 2,
+            "id": "青春期轉骨"
+        },
+        {
+            "group": 2,
+            "id": "關節炎"
+        },
+        {
+            "group": 2,
+            "id": "火燙傷"
+        },
+        {
+            "group": 2,
+            "id": "燒燙傷"
+        },
+        {
+            "group": 2,
+            "id": "感冒"
+        },
+        {
+            "group": 2,
+            "id": "咳嗽"
+        },
+        {
+            "group": 2,
+            "id": "腰痛"
+        },
+        {
+            "group": 2,
+            "id": "骨刺"
+        },
+        {
+            "group": 2,
+            "id": "小兒厭食"
+        },
+        {
+            "group": 2,
+            "id": "子宮肌瘤"
+        },
+        {
+            "group": 2,
+            "id": "扭挫傷"
+        },
+        {
+            "group": 2,
+            "id": "退化性關節炎"
+        },
+        {
+            "group": 2,
+            "id": "坐骨神經痛"
+        },
+        {
+            "group": 2,
+            "id": "糖尿病"
+        },
+        {
+            "group": 2,
+            "id": "白帶"
+        },
+        {
+            "group": 2,
+            "id": "運動傷害"
+        },
+        {
+            "group": 2,
+            "id": "睡眠障礙"
+        },
+        {
+            "group": 2,
+            "id": "青春痘"
+        },
+        {
+            "group": 2,
+            "id": "腸胃炎"
+        },
+        {
+            "group": 2,
+            "id": "高血壓"
+        },
+        {
+            "group": 2,
+            "id": "痛風"
+        },
+        {
+            "group": 2,
+            "id": "筋骨扭傷"
+        },
+        {
+            "group": 2,
+            "id": "各種酸痛"
+        },
+        {
+            "group": 2,
+            "id": "月經異常"
+        },
+        {
+            "group": 2,
+            "id": "落枕"
+        },
+        {
+            "group": 2,
+            "id": "失眠"
+        },
+        {
+            "group": 2,
+            "id": "五十肩"
+        },
+        {
+            "group": 2,
+            "id": "肥胖症"
+        }
+    ]
+}

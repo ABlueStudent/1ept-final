@@ -1,0 +1,355 @@
+﻿{
+    "links": [
+        {
+            "source": "王錦城",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "王錦城",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "王錦城",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "王錦城",
+            "target": "脂肪肝",
+            "value": 2
+        },
+        {
+            "source": "王錦城",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "蔡佩蓁",
+            "target": "頭痛",
+            "value": 2
+        },
+        {
+            "source": "蔡佩蓁",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "蔡佩蓁",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "蔡佩蓁",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "蔡佩蓁",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "蔡佩蓁",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "曾泓翔",
+            "target": "筋骨扭傷",
+            "value": 2
+        },
+        {
+            "source": "曾泓翔",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "曾泓翔",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "曾泓翔",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "曾泓翔",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "賴滿穗",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "賴滿穗",
+            "target": "胃潰瘍",
+            "value": 2
+        },
+        {
+            "source": "賴滿穗",
+            "target": "咳嗽",
+            "value": 2
+        },
+        {
+            "source": "賴滿穗",
+            "target": "高血壓",
+            "value": 2
+        },
+        {
+            "source": "賴滿穗",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "賴滿穗",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "翁睿苓",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "翁睿苓",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "翁睿苓",
+            "target": "心血管疾病",
+            "value": 2
+        },
+        {
+            "source": "翁睿苓",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "翁睿苓",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "陳函儀",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "陳函儀",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "陳函儀",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "蕭詠之",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "蕭詠之",
+            "target": "腸胃疾患",
+            "value": 2
+        },
+        {
+            "source": "蕭詠之",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "蕭詠之",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "蕭詠之",
+            "target": "神經疾患",
+            "value": 2
+        },
+        {
+            "source": "蕭詠之",
+            "target": "網球肘",
+            "value": 2
+        },
+        {
+            "source": "黃鈺傑",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "黃鈺傑",
+            "target": "坐骨神經",
+            "value": 2
+        },
+        {
+            "source": "黃鈺傑",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "黃鈺傑",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "黃鈺傑",
+            "target": "顏面神經疾患",
+            "value": 2
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "王錦城"
+        },
+        {
+            "group": 1,
+            "id": "蔡佩蓁"
+        },
+        {
+            "group": 1,
+            "id": "曾泓翔"
+        },
+        {
+            "group": 1,
+            "id": "賴滿穗"
+        },
+        {
+            "group": 1,
+            "id": "翁睿苓"
+        },
+        {
+            "group": 1,
+            "id": "陳函儀"
+        },
+        {
+            "group": 1,
+            "id": "蕭詠之"
+        },
+        {
+            "group": 1,
+            "id": "黃鈺傑"
+        },
+        {
+            "group": 2,
+            "id": "網球肘"
+        },
+        {
+            "group": 2,
+            "id": "青春期轉骨"
+        },
+        {
+            "group": 2,
+            "id": "火燙傷"
+        },
+        {
+            "group": 2,
+            "id": "燒燙傷"
+        },
+        {
+            "group": 2,
+            "id": "感冒"
+        },
+        {
+            "group": 2,
+            "id": "咳嗽"
+        },
+        {
+            "group": 2,
+            "id": "頭痛"
+        },
+        {
+            "group": 2,
+            "id": "坐骨神經"
+        },
+        {
+            "group": 2,
+            "id": "脂肪肝"
+        },
+        {
+            "group": 2,
+            "id": "扭挫傷"
+        },
+        {
+            "group": 2,
+            "id": "中風後遺症"
+        },
+        {
+            "group": 2,
+            "id": "坐骨神經痛"
+        },
+        {
+            "group": 2,
+            "id": "白帶"
+        },
+        {
+            "group": 2,
+            "id": "運動傷害"
+        },
+        {
+            "group": 2,
+            "id": "腸胃炎"
+        },
+        {
+            "group": 2,
+            "id": "心血管疾病"
+        },
+        {
+            "group": 2,
+            "id": "青春痘"
+        },
+        {
+            "group": 2,
+            "id": "高血壓"
+        },
+        {
+            "group": 2,
+            "id": "顏面神經疾患"
+        },
+        {
+            "group": 2,
+            "id": "痛風"
+        },
+        {
+            "group": 2,
+            "id": "腸胃疾患"
+        },
+        {
+            "group": 2,
+            "id": "筋骨扭傷"
+        },
+        {
+            "group": 2,
+            "id": "過敏性鼻炎"
+        },
+        {
+            "group": 2,
+            "id": "神經疾患"
+        },
+        {
+            "group": 2,
+            "id": "月經異常"
+        },
+        {
+            "group": 2,
+            "id": "落枕"
+        },
+        {
+            "group": 2,
+            "id": "胃潰瘍"
+        },
+        {
+            "group": 2,
+            "id": "肥胖症"
+        }
+    ]
+}

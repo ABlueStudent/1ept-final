@@ -1,0 +1,596 @@
+﻿{
+    "links": [
+        {
+            "source": "蔡全德",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "蔡全德",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "蔡全德",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "蔡德秋",
+            "target": "高血壓",
+            "value": 2
+        },
+        {
+            "source": "蔡德秋",
+            "target": "消化不良",
+            "value": 2
+        },
+        {
+            "source": "蔡德秋",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "蔡德秋",
+            "target": "婦兒體質調理",
+            "value": 2
+        },
+        {
+            "source": "蔡德秋",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "蔡德能",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "蔡德能",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "蔡德能",
+            "target": "骨折",
+            "value": 2
+        },
+        {
+            "source": "蔡德能",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "蔡德能",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "針灸傷骨科",
+            "value": 2
+        },
+        {
+            "source": "蘇柏誠",
+            "target": "腰痛",
+            "value": 2
+        },
+        {
+            "source": "楊朝帆",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "楊朝帆",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "楊朝帆",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "楊朝帆",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "楊朝帆",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "楊裕燋",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "楊裕燋",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "楊裕燋",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "楊裕燋",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "楊裕燋",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "楊子温",
+            "target": "一般內婦兒科疾患",
+            "value": 2
+        },
+        {
+            "source": "楊子温",
+            "target": "體質調理",
+            "value": 2
+        },
+        {
+            "source": "楊子温",
+            "target": "美容塑身",
+            "value": 2
+        },
+        {
+            "source": "楊子温",
+            "target": "身心科疾患",
+            "value": 2
+        },
+        {
+            "source": "陳瑜泓",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "陳瑜泓",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "陳瑜泓",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "陳瑜泓",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "陳瑜泓",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "賴怡君",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "賴怡君",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "賴怡君",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "賴怡君",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "賴怡君",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "吳品欣",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "吳品欣",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "吳品欣",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "吳品欣",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "吳品欣",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "何佩蓁",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "何佩蓁",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "何佩蓁",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "何佩蓁",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "何佩蓁",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "湯婉綺",
+            "target": "消化性潰瘍",
+            "value": 2
+        },
+        {
+            "source": "湯婉綺",
+            "target": "高血壓",
+            "value": 2
+        },
+        {
+            "source": "湯婉綺",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "湯婉綺",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "湯婉綺",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "林書帆",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "林書帆",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "林書帆",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "林書帆",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "林書帆",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "林冠良",
+            "target": "運動傷害",
+            "value": 2
+        },
+        {
+            "source": "林冠良",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "林冠良",
+            "target": "肩頸痠痛",
+            "value": 2
+        },
+        {
+            "source": "林冠良",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "林冠良",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "林冠良",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "何欣儒",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "何欣儒",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "何欣儒",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "何欣儒",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "何欣儒",
+            "target": "高血壓",
+            "value": 2
+        },
+        {
+            "source": "黃佩渝",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "黃佩渝",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "黃佩渝",
+            "target": "睡眠障礙",
+            "value": 2
+        },
+        {
+            "source": "黃佩渝",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "黃佩渝",
+            "target": "肥胖症",
+            "value": 2
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "蔡全德"
+        },
+        {
+            "group": 1,
+            "id": "蔡德秋"
+        },
+        {
+            "group": 1,
+            "id": "蔡德能"
+        },
+        {
+            "group": 1,
+            "id": "蘇柏誠"
+        },
+        {
+            "group": 1,
+            "id": "楊朝帆"
+        },
+        {
+            "group": 1,
+            "id": "楊裕燋"
+        },
+        {
+            "group": 1,
+            "id": "楊子温"
+        },
+        {
+            "group": 1,
+            "id": "陳瑜泓"
+        },
+        {
+            "group": 1,
+            "id": "賴怡君"
+        },
+        {
+            "group": 1,
+            "id": "吳品欣"
+        },
+        {
+            "group": 1,
+            "id": "何佩蓁"
+        },
+        {
+            "group": 1,
+            "id": "湯婉綺"
+        },
+        {
+            "group": 1,
+            "id": "林書帆"
+        },
+        {
+            "group": 1,
+            "id": "林冠良"
+        },
+        {
+            "group": 1,
+            "id": "何欣儒"
+        },
+        {
+            "group": 1,
+            "id": "黃佩渝"
+        },
+        {
+            "group": 2,
+            "id": "糖尿病傷口潰瘍"
+        },
+        {
+            "group": 2,
+            "id": "青春期轉骨"
+        },
+        {
+            "group": 2,
+            "id": "關節炎"
+        },
+        {
+            "group": 2,
+            "id": "火燙傷"
+        },
+        {
+            "group": 2,
+            "id": "燒燙傷"
+        },
+        {
+            "group": 2,
+            "id": "感冒"
+        },
+        {
+            "group": 2,
+            "id": "針灸傷骨科"
+        },
+        {
+            "group": 2,
+            "id": "腰痛"
+        },
+        {
+            "group": 2,
+            "id": "一般內婦兒科疾患"
+        },
+        {
+            "group": 2,
+            "id": "小兒厭食"
+        },
+        {
+            "group": 2,
+            "id": "婦兒體質調理"
+        },
+        {
+            "group": 2,
+            "id": "消化性潰瘍"
+        },
+        {
+            "group": 2,
+            "id": "體質調理"
+        },
+        {
+            "group": 2,
+            "id": "扭挫傷"
+        },
+        {
+            "group": 2,
+            "id": "中風後遺症"
+        },
+        {
+            "group": 2,
+            "id": "坐骨神經痛"
+        },
+        {
+            "group": 2,
+            "id": "白帶"
+        },
+        {
+            "group": 2,
+            "id": "運動傷害"
+        },
+        {
+            "group": 2,
+            "id": "肩頸痠痛"
+        },
+        {
+            "group": 2,
+            "id": "睡眠障礙"
+        },
+        {
+            "group": 2,
+            "id": "青春痘"
+        },
+        {
+            "group": 2,
+            "id": "腸胃炎"
+        },
+        {
+            "group": 2,
+            "id": "美容塑身"
+        },
+        {
+            "group": 2,
+            "id": "高血壓"
+        },
+        {
+            "group": 2,
+            "id": "過敏性鼻炎"
+        },
+        {
+            "group": 2,
+            "id": "各種酸痛"
+        },
+        {
+            "group": 2,
+            "id": "月經異常"
+        },
+        {
+            "group": 2,
+            "id": "落枕"
+        },
+        {
+            "group": 2,
+            "id": "五十肩"
+        },
+        {
+            "group": 2,
+            "id": "失眠"
+        },
+        {
+            "group": 2,
+            "id": "骨折"
+        },
+        {
+            "group": 2,
+            "id": "肥胖症"
+        },
+        {
+            "group": 2,
+            "id": "消化不良"
+        },
+        {
+            "group": 2,
+            "id": "身心科疾患"
+        }
+    ]
+}

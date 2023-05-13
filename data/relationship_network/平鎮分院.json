@@ -1,0 +1,354 @@
+﻿{
+    "links": [
+        {
+            "source": "徐立杰",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "徐立杰",
+            "target": "扭挫傷",
+            "value": 2
+        },
+        {
+            "source": "徐立杰",
+            "target": "退化性關節炎",
+            "value": 2
+        },
+        {
+            "source": "徐立杰",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "徐立杰",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "余俊思",
+            "target": "關節炎",
+            "value": 2
+        },
+        {
+            "source": "余俊思",
+            "target": "筋骨扭傷",
+            "value": 2
+        },
+        {
+            "source": "余俊思",
+            "target": "五十肩",
+            "value": 2
+        },
+        {
+            "source": "余俊思",
+            "target": "中風後遺症",
+            "value": 2
+        },
+        {
+            "source": "余俊思",
+            "target": "骨刺",
+            "value": 2
+        },
+        {
+            "source": "陳惠禎",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "陳惠禎",
+            "target": "過敏性鼻炎",
+            "value": 2
+        },
+        {
+            "source": "陳惠禎",
+            "target": "小兒厭食",
+            "value": 2
+        },
+        {
+            "source": "陳惠禎",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "陳惠禎",
+            "target": "失眠",
+            "value": 2
+        },
+        {
+            "source": "吳安溪",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "吳安溪",
+            "target": "坐骨神經痛",
+            "value": 2
+        },
+        {
+            "source": "吳安溪",
+            "target": "針灸傷骨科",
+            "value": 2
+        },
+        {
+            "source": "吳安溪",
+            "target": "糖尿病傷口潰瘍",
+            "value": 2
+        },
+        {
+            "source": "吳安溪",
+            "target": "中風",
+            "value": 2
+        },
+        {
+            "source": "蔡佩曄",
+            "target": "胃潰瘍",
+            "value": 2
+        },
+        {
+            "source": "蔡佩曄",
+            "target": "青春期轉骨",
+            "value": 2
+        },
+        {
+            "source": "蔡佩曄",
+            "target": "感冒",
+            "value": 2
+        },
+        {
+            "source": "蔡佩曄",
+            "target": "白帶",
+            "value": 2
+        },
+        {
+            "source": "蔡佩曄",
+            "target": "肥胖症",
+            "value": 2
+        },
+        {
+            "source": "吳靜欣",
+            "target": "月經異常",
+            "value": 2
+        },
+        {
+            "source": "吳靜欣",
+            "target": "腸胃炎",
+            "value": 2
+        },
+        {
+            "source": "吳靜欣",
+            "target": "心血管疾病",
+            "value": 2
+        },
+        {
+            "source": "吳靜欣",
+            "target": "青春痘",
+            "value": 2
+        },
+        {
+            "source": "吳靜欣",
+            "target": "消化道潰瘍",
+            "value": 2
+        },
+        {
+            "source": "秦健哲",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "秦健哲",
+            "target": "各種酸痛",
+            "value": 2
+        },
+        {
+            "source": "秦健哲",
+            "target": "針灸傷骨科",
+            "value": 2
+        },
+        {
+            "source": "秦健哲",
+            "target": "燒燙傷",
+            "value": 2
+        },
+        {
+            "source": "秦健哲",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "吳家勳",
+            "target": "火燙傷",
+            "value": 2
+        },
+        {
+            "source": "吳家勳",
+            "target": "落枕",
+            "value": 2
+        },
+        {
+            "source": "吳家勳",
+            "target": "筋骨扭傷",
+            "value": 2
+        },
+        {
+            "source": "吳家勳",
+            "target": "痛風",
+            "value": 2
+        },
+        {
+            "source": "吳家勳",
+            "target": "各種酸痛",
+            "value": 2
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "徐立杰"
+        },
+        {
+            "group": 1,
+            "id": "余俊思"
+        },
+        {
+            "group": 1,
+            "id": "陳惠禎"
+        },
+        {
+            "group": 1,
+            "id": "吳安溪"
+        },
+        {
+            "group": 1,
+            "id": "蔡佩曄"
+        },
+        {
+            "group": 1,
+            "id": "吳靜欣"
+        },
+        {
+            "group": 1,
+            "id": "秦健哲"
+        },
+        {
+            "group": 1,
+            "id": "吳家勳"
+        },
+        {
+            "group": 2,
+            "id": "糖尿病傷口潰瘍"
+        },
+        {
+            "group": 2,
+            "id": "青春期轉骨"
+        },
+        {
+            "group": 2,
+            "id": "關節炎"
+        },
+        {
+            "group": 2,
+            "id": "火燙傷"
+        },
+        {
+            "group": 2,
+            "id": "燒燙傷"
+        },
+        {
+            "group": 2,
+            "id": "感冒"
+        },
+        {
+            "group": 2,
+            "id": "針灸傷骨科"
+        },
+        {
+            "group": 2,
+            "id": "骨刺"
+        },
+        {
+            "group": 2,
+            "id": "小兒厭食"
+        },
+        {
+            "group": 2,
+            "id": "退化性關節炎"
+        },
+        {
+            "group": 2,
+            "id": "扭挫傷"
+        },
+        {
+            "group": 2,
+            "id": "消化道潰瘍"
+        },
+        {
+            "group": 2,
+            "id": "中風後遺症"
+        },
+        {
+            "group": 2,
+            "id": "坐骨神經痛"
+        },
+        {
+            "group": 2,
+            "id": "白帶"
+        },
+        {
+            "group": 2,
+            "id": "青春痘"
+        },
+        {
+            "group": 2,
+            "id": "腸胃炎"
+        },
+        {
+            "group": 2,
+            "id": "心血管疾病"
+        },
+        {
+            "group": 2,
+            "id": "痛風"
+        },
+        {
+            "group": 2,
+            "id": "筋骨扭傷"
+        },
+        {
+            "group": 2,
+            "id": "過敏性鼻炎"
+        },
+        {
+            "group": 2,
+            "id": "各種酸痛"
+        },
+        {
+            "group": 2,
+            "id": "落枕"
+        },
+        {
+            "group": 2,
+            "id": "胃潰瘍"
+        },
+        {
+            "group": 2,
+            "id": "月經異常"
+        },
+        {
+            "group": 2,
+            "id": "五十肩"
+        },
+        {
+            "group": 2,
+            "id": "失眠"
+        },
+        {
+            "group": 2,
+            "id": "肥胖症"
+        },
+        {
+            "group": 2,
+            "id": "中風"
+        }
+    ]
+}

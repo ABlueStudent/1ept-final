@@ -2,6 +2,7 @@
   "name": "1ept-final",
   "packageManager": "yarn@3.5.1",
   "devDependencies": {
+    "@types/node": "^20.1.1",
     "typescript": "^5.0.4"
   }
 }
